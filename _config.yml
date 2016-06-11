@@ -1,14 +1,15 @@
-layout_spectrum: 0.7145765556488186
-typography_spectrum: 0.06234880327247083
+layout_spectrum: 0.6641761884093285
+typography_spectrum: 0.18523762957192957
 color:
-  brandStrength: 0.022876091534271836
-  lightness: 0.5705514955334365
-  saturation: 0.8674100837670267
-  rhythmicContrast: 0.3992066972423345
+  brandStrength: 0.8154497123323381
+  lightness: 0.5233396168332547
+  saturation: 0.8766601900570095
+  rhythmicContrast: 0.10649776761420071
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: Cherry Blossom Photography
+title: MEMORIES LAST FOREVER -MAKE THEM !
